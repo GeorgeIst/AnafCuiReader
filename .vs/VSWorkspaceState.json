@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\Controllers",
+    "\\Models",
+    "\\obj",
+    "\\Properties",
+    "\\Service"
+  ],
+  "SelectedNode": "\\Service\\CuiService.cs",
+  "PreviewInSolutionExplorer": false
+}
